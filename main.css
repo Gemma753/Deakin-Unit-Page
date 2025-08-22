@@ -16,4 +16,7 @@ p {
   font-family: Arial
 }
 
-
+div {
+  text-align: right;
+  background-color: darkcyan;
+}
